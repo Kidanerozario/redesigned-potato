@@ -1,2 +1,3 @@
-# redesigned-potato
+# Redesigned Potato
+
 Second Test Repo
